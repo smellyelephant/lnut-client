@@ -3,6 +3,12 @@
 a hacked client for languagenut, that autocompletes repetitive tasks. makes languagenut homework less of
 a grind, so you can focus on things that actually help you learn. 
 
+## IMPORTANT NOTE AS OF OCTOBER 2026
+As of now, I will not be maintaining this repo, although it will stay public. As it started as a proof of concept project aimed mainly for me and my friends, I am pleasantly surprised that it has garnered forks, clones, stars, and discord bots all using bits from this repo. However, I do not have motivation or time to continue maintaining this project. Thank you to everyone who has found this repo useful :)
+
+__NOTE: I will still respond to forks and PRs! If you want to contribute a feature or fix a bug, feel free to do so. Whilst I won't be actively developing this repo, I'll consider and perhaps merge contributions.__
+
+
 ## what it does
 - fetch all homeworks
 - autocompletes any number of tasks - even all of them if you want (thanks to swyift for this change)
